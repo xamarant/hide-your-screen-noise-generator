@@ -1,4 +1,7 @@
 # hide-your-screen noise generator v6
+ hide-your-screen-noise-generator/noise generator.png 
+![Image alt](https://github.com/xamarant/hide-your-screen-noise-generator/raw/master/noise generator.png)
+
 The circuit of the noise generator on the chip. It creates interference, makes it impossible to remotely restore the image from the computer screen by electromagnetic leakage from the video cable.
 
 If the current flows through the wires with electrical signals, then these wires emit radio waves. On the radio waves from the video cable, you can restore the image on the computer screen, as well as pressing the key on the keyboard.
@@ -16,4 +19,4 @@ Input Voltage: 5-11 VDC
 Current: 20-50 mA
 Noise range: 10-460 Mhz
 
-This is a low-power noise generator, it does not interfere with the operation of television, radio and mobile networks. But its power is enough to prevent spying on the screen.
+This is a low-power and low-cost noise generator, it does not interfere with the operation of television, radio and mobile networks. But its power is enough to prevent spying on the screen.
