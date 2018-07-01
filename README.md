@@ -4,7 +4,7 @@
 
 The circuit of the noise generator on the chip. It creates interference, makes it impossible to remotely restore the image from the computer screen by electromagnetic leakage from the video cable.
 
-If the current flows through the wires with electrical signals, then these wires emit radio waves. On the radio waves from the video cable, you can restore the image on the computer screen, as well as pressing the key on the keyboard.
+If the current flows through the wires with electrical signals, then these wires emit radio waves. On the radio waves from the video cable, intelligencer can restore the image on the computer screen, as well as pressed keys on the keyboard.
 
 This information is usually used to spy on people and destroy their lives. To steal confidential information, passwords, program code and other secrets.
 
