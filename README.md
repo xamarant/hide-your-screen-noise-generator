@@ -1,6 +1,6 @@
 # hide-your-screen noise generator v6
- hide-your-screen-noise-generator/noise generator.png 
-![Image alt](https://github.com/xamarant/hide-your-screen-noise-generator/raw/master/noise generator.png)
+ 
+![Diagram](https://github.com/xamarant/hide-your-screen-noise-generator/raw/master/noise%20generator.png)
 
 The circuit of the noise generator on the chip. It creates interference, makes it impossible to remotely restore the image from the computer screen by electromagnetic leakage from the video cable.
 
